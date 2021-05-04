@@ -1,0 +1,14 @@
+.gameArea {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 1em;
+  /* margin: 1em; */
+  padding-bottom: 1em;
+}
+.container {
+  background-image: url(../img/background.jpg);
+  background-position: 80% 40%;
+  color:limegreen;
+}
+
+
